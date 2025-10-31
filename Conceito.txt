@@ -1,0 +1,15 @@
+---------------------------
+software voltado a oficina.
+---------------------------
+
+1 -> 
+Mantém a ideia de tipos/modelos de carros e pegamos uma lista dos mais populares.
+
+
+2 -> 
+dar uma enxugada na ideia, tipo de veiculo -> transformar em ENUM (seleção para o customer)
+
+3 -> 
+envio de notificação ao cliente de forma automática ou manual (recebendo a notificação no sistema e escolhendo enviar ou nao o e-mail para o cliente).
+
+
